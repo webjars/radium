@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>radium</artifactId>
-    <version>0.13.0</version>
+    <version>0.13.1-SNAPSHOT</version>
     <name>Radium</name>
     <description>WebJar package for Radium.</description>
     <url>http://webjars.org</url>
@@ -44,7 +44,7 @@
         <url>https://github.com/webjars/radium</url>
         <connection>scm:git:https://github.com/webjars/radium.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/radium.git</developerConnection>
-        <tag>radium-0.13.0</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <dependencies>
